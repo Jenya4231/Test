@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "504fc804775bda42",
+    "type": "split",
+    "children": [
+      {
+        "id": "2144b4f8271a5064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a8ec93c422fc69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9391468ca82462e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dc01bd98c4687e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valiant Hearts The Great War.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "435b216585624b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Просмотренные фильмы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4212723340f4ecea",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd54dfd399b99230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adbc6e4089c09693",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac5b31c5a317cc4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82376862ad2bdf7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03a9a95ad234ce20",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a97aa72537a7a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a286e1c1f0b247a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Valiant Hearts The Great War.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d29489a9d06889d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Valiant Hearts The Great War.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73a402f176214f64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4d27b27fcb3a7e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Valiant Hearts The Great War.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7dc01bd98c4687e2",
+  "lastOpenFiles": [
+    "Dr. Stone.md",
+    "files/Pasted image 20231023230115.png",
+    "Аой Ашито.md",
+    "files/Pasted image 20231019110905.png",
+    "daily/2023-10-05.md",
+    "сон 13.10.2023.md",
+    "Forrest Gump.md",
+    "files/Pasted image 20231012193739.png",
+    "Valiant Hearts The Great War.md",
+    "files/Pasted image 20231012161620.png",
+    "Python.md",
+    "Godot.md",
+    "Clear Code.md",
+    "Пуховое одеяло.md",
+    "Ютуберы.md",
+    "Youtube.md",
+    "templates/Просмотренные фильмы.md",
+    "Программирование.md",
+    "В планах по просмотру.md",
+    "Игры.md",
+    "daily/2023-10-09.md",
+    "daily/2023-10-06.md",
+    "сон 09.10.2023.md",
+    "сон 07.10.2023.md",
+    "Сны.md",
+    "files/Pasted image 20231006234148.png",
+    "Аниме.md",
+    "files/Pasted image 20231006093126.png",
+    "files/Pasted image 20231006093117.png",
+    "Философия.md",
+    "files/Pasted image 20231006092556.png",
+    "files/Pasted image 20231006092529.png",
+    "obsidian.md",
+    "The Good, the Bad and the Ugly.md",
+    "Excalidraw",
+    "files/Pasted image 20231006001131.png",
+    "daily",
+    "files",
+    "templates",
+    "Untitled.canvas"
+  ]
+}

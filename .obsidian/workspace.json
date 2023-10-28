@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valiant Hearts The Great War.md",
+                "file": "Тестовый тест.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valiant Hearts The Great War.md",
+                "file": "Тестовый тест.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valiant Hearts The Great War.md",
+                "file": "Тестовый тест.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Valiant Hearts The Great War.md"
+                "file": "Тестовый тест.md"
               }
             }
           }
@@ -181,6 +181,8 @@
   },
   "active": "7dc01bd98c4687e2",
   "lastOpenFiles": [
+    "Valiant Hearts The Great War.md",
+    "Тестовый тест.md",
     "Dr. Stone.md",
     "files/Pasted image 20231023230115.png",
     "Аой Ашито.md",
@@ -189,7 +191,6 @@
     "сон 13.10.2023.md",
     "Forrest Gump.md",
     "files/Pasted image 20231012193739.png",
-    "Valiant Hearts The Great War.md",
     "files/Pasted image 20231012161620.png",
     "Python.md",
     "Godot.md",
